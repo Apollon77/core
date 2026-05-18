@@ -51,6 +51,7 @@ CONF_IMAGE_TOPIC = "image_topic"
 CONF_JSON_ATTRS_TOPIC = "json_attributes_topic"
 CONF_JSON_ATTRS_TEMPLATE = "json_attributes_template"
 CONF_KEEPALIVE = "keepalive"
+CONF_MESSAGE_EXPIRY_INTERVAL = "message_expiry_interval"
 # pylint: disable-next=home-assistant-duplicate-const
 CONF_OPTIONS = "options"
 CONF_ORIGIN = "origin"
